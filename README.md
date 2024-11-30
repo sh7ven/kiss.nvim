@@ -4,7 +4,7 @@ To read more about the reason this repository exists, read [here](#why).
 
 # Installation
 ```bash
-$ git clone https://github.com/thesvn/kiss.nvim "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+$ git clone https://github.com/shivenkashyapp/kiss.nvim "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
 ```
 
 This should work across most Linux flavors. Just in case, verify if the value of:
@@ -84,7 +84,7 @@ immediately after installation, while also having a super-fast startup.
 This repo is *also* for people who don't want to spend massively unreasonable amounts of time creating a configuration from
 scratch, like I did here. 
 
-I'll probably write a short [guide](https://thesvn.github.io) on creating this from scratch.
+I'll probably write a short [guide](https://shivenkashyapp.github.io) on creating this from scratch.
 But, on a second thought, that would defeat the purpose of this configuration existing. Meh.
 
 
