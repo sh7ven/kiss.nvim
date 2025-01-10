@@ -4,7 +4,7 @@ To read more about the reason this repository exists, read [here](#why).
 
 # Installation
 ```bash
-$ git clone https://github.com/shivenkashyapp/kiss.nvim "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+$ git clone https://github.com/sh7ven/kiss.nvim "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
 ```
 
 This should work across most Linux flavors. Just in case, verify if the value of:
