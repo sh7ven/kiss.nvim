@@ -84,7 +84,7 @@ immediately after installation, while also having a super-fast startup.
 This repo is *also* for people who don't want to spend massively unreasonable amounts of time creating a configuration from
 scratch, like I did here. 
 
-I'll probably write a short [guide](https://shivenkashyapp.github.io) on creating this from scratch.
+I'll probably write a short [guide](https://sh7ven.github.io) on creating this from scratch.
 But, on a second thought, that would defeat the purpose of this configuration existing. Meh.
 
 
